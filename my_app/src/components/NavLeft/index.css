@@ -1,0 +1,9 @@
+.logo {
+  text-align: center;
+  background-color: #001529;
+  cursor: pointer;
+}
+.logo h1 {
+  color: #ffffff;
+  margin: 0;
+}

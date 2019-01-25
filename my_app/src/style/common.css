@@ -1,0 +1,13 @@
+.container {
+  flex-direction: row;
+}
+.container .nav-left {
+  height: 100vh;
+}
+.container .main {
+  height: 100vh;
+}
+.container .content {
+  position: relative;
+  padding: 20px;
+}
